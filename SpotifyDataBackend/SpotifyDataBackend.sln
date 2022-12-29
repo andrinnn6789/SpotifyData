@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotifyDataBackend", "SpotifyDataBackend.csproj", "{4064CB84-2999-472A-B7E1-E0732F4B6E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyDataBackendTest", "..\SpotifyDataBackendTest\SpotifyDataBackendTest.csproj", "{3E884404-C83D-437B-80EE-9A39006AFFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4064CB84-2999-472A-B7E1-E0732F4B6E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4064CB84-2999-472A-B7E1-E0732F4B6E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4064CB84-2999-472A-B7E1-E0732F4B6E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4064CB84-2999-472A-B7E1-E0732F4B6E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E884404-C83D-437B-80EE-9A39006AFFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E884404-C83D-437B-80EE-9A39006AFFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E884404-C83D-437B-80EE-9A39006AFFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E884404-C83D-437B-80EE-9A39006AFFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FF7BCA1-B206-4BE5-84E8-19C65E2DE61C}
+	EndGlobalSection
+EndGlobal
